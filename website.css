@@ -1,0 +1,106 @@
+body {
+  width: 970px;
+  margin: auto;
+  padding: 0px;
+}
+
+/*
+section {
+  width: 970px;
+}
+*/
+
+header {
+  width: 970px;
+  height: 211px;
+  background-image: url(./images/logo_index.png);
+  margin: 0px;
+  text-align: center;
+  padding: 0px;
+}
+
+header h1 {
+  padding: 90px 0px 0px 0px;
+  margin: 0px;
+}
+
+nav{
+  margin-bottom: 0;
+  padding: 0;
+  height: 24px;
+  width: 970px;
+}
+
+ul#menu {
+  margin: 0;
+  padding-left: 0;
+  width: auto;
+  background-color:rgb(255, 153, 0);
+}
+
+ul#menu li {
+  float: left;
+  text-align: center;
+  list-style-type: none;
+  border-style: none;
+  width: 194px;
+}
+/*
+ul#menu li#saigo {
+  width: 193px;
+}
+*/
+
+ul#menu li a{
+  display: block;
+  background-color: rgb(255, 153, 0);
+  text-decoration: none;
+  color: white;
+  border-right: 1px solid white;
+}
+
+ul#menu li a:hover {
+  color: white;
+  background-color:rgb(219, 134, 5) ;
+}
+
+ul#menu li a:active {
+  color: white;
+  background-color: rgb(219, 134, 5);
+}
+
+main {
+  height: auto;
+  margin: 0px;
+}
+
+iframe {
+  width: 970px;
+  height: 364px;
+  border: none;
+  overflow-y: hidden;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  font-family: sans-serif;
+  color: rgba(57, 57, 57, 0.92);
+}
+
+table {
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px;
+  width: auto;
+}
+
+td {
+  min-width: 320px;
+}
+
+footer {
+  height: auto;
+  color: rgb(98, 98, 98);
+  text-align: center;
+}
