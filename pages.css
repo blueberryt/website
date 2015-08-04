@@ -1,6 +1,22 @@
 body {
   margin: 0px;
+  font-size: 0.9em;
+  margin-top: auto;
+  margin-bottom: auto;
  }
+
+ h1 {
+   display: block;
+   font-family: sans-serif;
+   color: rgba(57, 57, 57, 0.92);
+   font-size: 1.2em;
+ }
+
+h2 {
+
+  color: rgba(57, 57, 57, 0.92);
+}
+
 section img {
   float: left;
   width: 100px;
@@ -15,5 +31,5 @@ table {
 }
 
 td {
-  max-width: 300px;
+  min-width: 300px;
 }
