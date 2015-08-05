@@ -1,0 +1,68 @@
+h1 {
+  font-size: 1.5em;
+}
+
+img {
+  float: left;
+}
+
+div#content {
+  display: flex;
+  display: -webkit-flex;
+  width: auto;
+}
+div#content2 {
+  display: flex;
+  display: -webkit-flex;
+  width: auto;
+}
+div#content3 {
+  display: flex;
+  display: -webkit-flex;
+  width: auto;
+}
+
+div#honoka {
+  order: 1; -webkit-order: 1;
+  flex: 0 1 300px; -webkit-flex:0 1 300px;
+}
+
+div#umi {
+  order: 3; -webkit-order: 3;
+  flex:0 1 300px; -webkit-flex: 0 1 300px;
+}
+
+div#kotori {
+  order: 2; -webkit-order: 2;
+  flex: 0 1 300px; -webkit-flex: 0 1 300px;
+}
+
+div#rin {
+  order: 4; -webkit-order: 4;
+  flex: 0 1 300px; -webkit-flex: 0 1 300px;
+}
+
+div#hanayo {
+  order: 4; -webkit-order: 4;
+  flex: 0 1 300px; -webkit-flex: 0 1 300px;
+}
+
+div#maki {
+  order: 5; -webkit-order: 5;
+  flex: 0 1 300px; -webkit-flex: 0 1 300px;
+}
+
+div#eli {
+  order: 1; -webkit-order: 1;
+  flex: 0 1 300px; -webkit-flex: 0 1 300px;
+}
+
+div#nozomi {
+  order: 3; -webkit-order: 3;
+  flex: 0 1 300px; -webkit-flex: 0 1 300px;
+}
+
+div#niko {
+  order: 2; -webkit-order: 2;
+  flex: 0 1 300px; -webkit-flex: 0 1 300px;
+}
