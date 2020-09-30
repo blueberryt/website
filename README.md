@@ -1,2 +1,3 @@
 # HTML/CSS
-HTML/CSSの練習
+HTML/CSSの練
+This is project involving html and css.
